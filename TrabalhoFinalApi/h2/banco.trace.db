@@ -1,0 +1,30 @@
+2021-11-12 01:39:21 jdbc[33]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ENDERECO[*] ENDERECO"; expected "EXPLAIN, EXECUTE"; SQL statement:
+ENDERECO ENDERECO [42001-200]
+2021-11-12 01:43:36 jdbc[33]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELEC[*] * FROM PRODUTO"; expected "SET, SAVEPOINT, SCRIPT, SHUTDOWN, SHOW"; SQL statement:
+SELEC * FROM PRODUTO [42001-200]
+2021-11-12 01:43:46 jdbc[33]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELEC[*] * FROM PRODUTO"; expected "SET, SAVEPOINT, SCRIPT, SHUTDOWN, SHOW"; SQL statement:
+SELEC * FROM PRODUTO [42001-200]
+2021-11-12 01:43:57 jdbc[33]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELEC[*] * FROM PRODUTO"; expected "SET, SAVEPOINT, SCRIPT, SHUTDOWN, SHOW"; SQL statement:
+SELEC * FROM PRODUTO [42001-200]
+2021-11-12 01:44:43 jdbc[33]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELEC[*] * FROM PRODUTO"; expected "SET, SAVEPOINT, SCRIPT, SHUTDOWN, SHOW"; SQL statement:
+SELEC * FROM PRODUTO [42001-200]
+2021-11-12 01:47:08 jdbc[44]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * PRODUTO[*]"; SQL statement:
+SELECT * PRODUTO [42000-200]
+2021-11-12 01:47:46 jdbc[44]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * PRODUTO[*]"; SQL statement:
+SELECT * PRODUTO [42000-200]
+2021-11-12 01:50:46 jdbc[56]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * PRODUTO[*]"; SQL statement:
+SELECT * PRODUTO [42000-200]
+2021-11-12 01:57:02 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * PRODUTO[*]"; SQL statement:
+SELECT * PRODUTO [42000-200]
+2021-11-12 01:57:19 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * PRODUTO[*]"; SQL statement:
+SELECT * PRODUTO [42000-200]
